@@ -1,0 +1,3 @@
+web:
+    image: ngingx:latest
+    
